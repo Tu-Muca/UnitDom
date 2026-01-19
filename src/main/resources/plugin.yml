@@ -1,5 +1,5 @@
 name: UnitDom
-main: love.pxybb.Main
+main: love.pxybb.main
 version: 1.0.0
 api-version: 1.21
 commands:
